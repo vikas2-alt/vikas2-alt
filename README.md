@@ -1,8 +1,8 @@
 # Hi, I'm Vikas Enjamuri 👋
     
      ### 🚀 DevOps & Infrastructure Engineer
-     I build and automate scalable infrastructure. With over a year of experience managing production environments, I focus on bridging the gap between development and
-      operations through CI/CD, containerization, and cloud-native solutions.
+     I build and automate scalable infrastructure. With over a year of experience managing production environments,
+     I focus on bridging the gap between development and  operations through CI/CD, containerization, and cloud-native solutions.
    
      ---
     
